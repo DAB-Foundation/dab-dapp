@@ -2,7 +2,7 @@
 
 The DAB Ethereum wallet.
 
-[![Build Status](https://travis-ci.org/DAB-Foundation/dab-dapp-wallet.svg?branch=master)](https://travis-ci.org/DAB-Foundation/dab-dapp-wallet)
+[![Build Status](https://travis-ci.org/dabdevelop/dab-dapp-wallet.svg?branch=master)](https://travis-ci.org/dabdevelop/dab-dapp-wallet)
 
 **NOTE** The wallet is not yet official released,
 can contain severe bugs!
@@ -16,7 +16,7 @@ Start an `geth` node and and the app using meteor and open http://localhost:3000
 
 Starting the wallet dapp using [Meteor](https://meteor.com/install)
 
-    $ cd meteor-dapp-wallet/app
+    $ cd dab-dapp-wallet/app
     $ meteor
 
 Go to http://localhost:3000
@@ -30,7 +30,7 @@ To create a build version of your app run:
     $ npm install -g meteor-build-client
 
     // bundle dapp
-    $ cd meteor-dapp-wallet/app
+    $ cd dab-dapp-wallet/app
     $ meteor-build-client ../build --path ""
 
 This will generate the files in the `../build` folder. Double click the index.html to start the app.
@@ -54,7 +54,3 @@ And push (or PR) your changes to the host.
 ## Test
 
 Using Metamask and test the wallet on Ropsten Network at http://wallet.dab-foundation.org
-
-
-
-***
