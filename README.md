@@ -54,7 +54,3 @@ And push (or PR) your changes to the host.
 ## Test
 
 Using Metamask and test the wallet on Ropsten Network at http://wallet.dab-foundation.org
-
-
-
-***
