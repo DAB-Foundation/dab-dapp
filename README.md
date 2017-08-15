@@ -2,7 +2,7 @@
 
 The DAB Ethereum wallet.
 
-[![Build Status](https://travis-ci.org/DAB-Foundation/dab-dapp-wallet.svg?branch=master)](https://travis-ci.org/DAB-Foundation/dab-dapp-wallet)
+[![Build Status](https://travis-ci.org/dabdevelop/dab-dapp-wallet.svg?branch=master)](https://travis-ci.org/dabdevelop/dab-dapp-wallet)
 
 **NOTE** The wallet is not yet official released,
 can contain severe bugs!
